@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="org.kohsuke:github-api:1.70" type="repository">
+    <properties maven-id="org.kohsuke:github-api:1.70" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kohsuke/github-api/1.70/github-api-1.70.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.7/commons-codec-1.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.2.3/jackson-databind-2.2.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.2.3/jackson-annotations-2.2.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.2.3/jackson-core-2.2.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/1.4/commons-io-1.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/infradna/tool/bridge-method-annotation/1.14/bridge-method-annotation-1.14.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jenkins-ci/annotation-indexer/1.4/annotation-indexer-1.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/findbugs/annotations/3.0.0/annotations-3.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kohsuke/github-api/1.70/github-api-1.70-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kohsuke/github-api/1.70/github-api-1.70-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
